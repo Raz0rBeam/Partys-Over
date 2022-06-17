@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "PartysOver",
+  "name": "Party's Over",
+  "author": "Raz0rBeam",
+  "version": "0.0.1",
+  "description": "A mod to get rid of the Anniversary items in the main menu.",
+  "gameVersion": "1.23.0",
+  "dependsOn": {
+    "BSIPA": "^4.0.5",
+    "SiraUtil": "^3.0.5"
+  },
+  "features": []
+}
